@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "A5IlCr3Zni4=",
+  "success": true,
+  "projectFilePath": "D:\\Github\\ex01\\AIDashboard\\AIDashboard.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zxkik\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
+    "C:\\Users\\zxkik\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\zxkik\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\zxkik\\.nuget\\packages\\microsoft.web.webview2\\1.0.4078.44\\microsoft.web.webview2.1.0.4078.44.nupkg.sha512",
+    "C:\\Users\\zxkik\\.nuget\\packages\\ssh.net\\2025.1.0\\ssh.net.2025.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
